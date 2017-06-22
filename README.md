@@ -1,2 +1,2 @@
-# gostate
-A state machine in GO
+# grpcdemo
+A simle grpc demo project in Go
